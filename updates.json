@@ -1,1 +1,12 @@
-{"addons":{}}
+{
+  "addons": {
+    "yupoo-lens@tellaboutme.github.io": {
+      "updates": [
+        {
+          "version": "0.5.0",
+          "update_link": "https://github.com/tellaboutme/yupoo-lens-releases/releases/download/v0.5.0/yupoo_lens-0.5.0.xpi"
+        }
+      ]
+    }
+  }
+}
