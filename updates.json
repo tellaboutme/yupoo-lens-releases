@@ -21,6 +21,10 @@
         {
           "version": "0.8.0",
           "update_link": "https://github.com/tellaboutme/yupoo-lens-releases/releases/download/v0.8.0/yupoo_lens-0.8.0.xpi"
+        },
+        {
+          "version": "0.8.1",
+          "update_link": "https://github.com/tellaboutme/yupoo-lens-releases/releases/download/v0.8.1/yupoo_lens-0.8.1.xpi"
         }
       ]
     }
